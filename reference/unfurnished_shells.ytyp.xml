@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+ <extensions/>
+ <archetypes>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="5.1" y="6.1" z="2.7"/>
+    <bsCentre x="2.500" y="3.000" z="1.250"/><bsRadius value="4.298"/>
+    <hdTextureDist value="100"/>
+    <name>shell_low_studio</name><textureDictionary>shell_low_studio</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_low_studio</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="7.1" y="6.1" z="2.7"/>
+    <bsCentre x="3.500" y="3.000" z="1.250"/><bsRadius value="4.967"/>
+    <hdTextureDist value="100"/>
+    <name>shell_low_apartment1</name><textureDictionary>shell_low_apartment1</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_low_apartment1</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="8.1" y="7.1" z="2.7"/>
+    <bsCentre x="4.000" y="3.500" z="1.250"/><bsRadius value="5.646"/>
+    <hdTextureDist value="100"/>
+    <name>shell_low_apartment2</name><textureDictionary>shell_low_apartment2</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_low_apartment2</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="4.1" y="6.1" z="2.7"/>
+    <bsCentre x="2.000" y="3.000" z="1.250"/><bsRadius value="4.015"/>
+    <hdTextureDist value="100"/>
+    <name>shell_low_motel</name><textureDictionary>shell_low_motel</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_low_motel</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="3.6" y="10.1" z="2.5"/>
+    <bsCentre x="1.750" y="5.000" z="1.150"/><bsRadius value="5.591"/>
+    <hdTextureDist value="100"/>
+    <name>shell_low_trailer</name><textureDictionary>shell_low_trailer</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_low_trailer</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="10.1" y="9.1" z="3.0"/>
+    <bsCentre x="5.000" y="4.500" z="1.400"/><bsRadius value="7.052"/>
+    <hdTextureDist value="100"/>
+    <name>shell_mid_house2</name><textureDictionary>shell_mid_house2</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_mid_house2</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="12.1" y="10.1" z="3.0"/>
+    <bsCentre x="6.000" y="5.000" z="1.400"/><bsRadius value="8.110"/>
+    <hdTextureDist value="100"/>
+    <name>shell_mid_house3</name><textureDictionary>shell_mid_house3</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_mid_house3</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="8.1" y="12.1" z="3.0"/>
+    <bsCentre x="4.000" y="6.000" z="1.400"/><bsRadius value="7.522"/>
+    <hdTextureDist value="100"/>
+    <name>shell_mid_townhouse</name><textureDictionary>shell_mid_townhouse</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_mid_townhouse</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="14.1" y="9.1" z="3.4000000000000004"/>
+    <bsCentre x="7.000" y="4.500" z="1.600"/><bsRadius value="8.649"/>
+    <hdTextureDist value="100"/>
+    <name>shell_mid_loft</name><textureDictionary>shell_mid_loft</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_mid_loft</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="11.1" y="8.1" z="3.0"/>
+    <bsCentre x="5.500" y="4.000" z="1.400"/><bsRadius value="7.122"/>
+    <hdTextureDist value="100"/>
+    <name>shell_mid_bungalow</name><textureDictionary>shell_mid_bungalow</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_mid_bungalow</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="16.1" y="12.1" z="3.6"/>
+    <bsCentre x="8.000" y="6.000" z="1.700"/><bsRadius value="10.316"/>
+    <hdTextureDist value="100"/>
+    <name>shell_high_villa</name><textureDictionary>shell_high_villa</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_high_villa</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="20.1" y="14.1" z="3.8000000000000003"/>
+    <bsCentre x="10.000" y="7.000" z="1.800"/><bsRadius value="12.507"/>
+    <hdTextureDist value="100"/>
+    <name>shell_high_mansion</name><textureDictionary>shell_high_mansion</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_high_mansion</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="18.1" y="12.1" z="3.6"/>
+    <bsCentre x="9.000" y="6.000" z="1.700"/><bsRadius value="11.119"/>
+    <hdTextureDist value="100"/>
+    <name>shell_high_penthouse</name><textureDictionary>shell_high_penthouse</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_high_penthouse</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="24.1" y="16.1" z="3.8000000000000003"/>
+    <bsCentre x="12.000" y="8.000" z="1.800"/><bsRadius value="14.698"/>
+    <hdTextureDist value="100"/>
+    <name>shell_high_estate</name><textureDictionary>shell_high_estate</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_high_estate</assetName><extensions/>
+   </Item>
+   <Item type="CBaseArchetypeDef">
+    <lodDist value="300"/><flags value="32"/><specialAttribute value="0"/>
+    <bbMin x="-0.1" y="-0.1" z="-0.2"/><bbMax x="15.1" y="10.1" z="3.6"/>
+    <bsCentre x="7.500" y="5.000" z="1.700"/><bsRadius value="9.348"/>
+    <hdTextureDist value="100"/>
+    <name>shell_high_condo</name><textureDictionary>shell_high_condo</textureDictionary><clipDictionary/><drawableDictionary/><physicsDictionary/>
+    <assetType>ASSET_TYPE_DRAWABLE</assetType><assetName>shell_high_condo</assetName><extensions/>
+   </Item>
+ </archetypes>
+ <name>unfurnished_shells</name>
+ <dependencies/>
+ <compositeEntityTypes/>
+</CMapTypes>
